@@ -3,6 +3,7 @@ There are three version of vector images in this project.
 * ai - Adobe Illustrator format
 * pdf - Adobe Reader format
 * svg - Scalable Vector Graphics
+* ico - Favicon for webservers running redmine
 
 To submit modifications for the logo
 
